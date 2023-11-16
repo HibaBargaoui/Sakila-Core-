@@ -1,1 +1,1 @@
-# Sakila-Core-
+# Sakila-Core
